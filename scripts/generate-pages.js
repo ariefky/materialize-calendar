@@ -5,6 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
+const BASE = "/materialize-calendar"; // GitHub Pages project subpath
 const HTML_DIR = path.join(ROOT, "public", "html", "vertical-menu-template-semi-dark");
 const FRONT_DIR = path.join(ROOT, "public", "html", "front-pages");
 const APP_DIR = path.join(ROOT, "app");
@@ -75,9 +76,11 @@ function parsePage(filePath, relHtml) {
   let lm;
   while ((lm = linkRe.exec(raw))) {
     let href = lm[1];
-    if (href.startsWith("../../assets/")) href = "/" + href.replace("../../assets/", "assets/");
-    else if (href.startsWith("../")) href = "/" + href.replace("../", "");
-    else if (!href.startsWith("http") && !href.startsWith("/")) href = "/" + href;
+    if (href.startsWith("../../assets/")) href = BASE + "/" + href.replace("../../assets/", "assets/");
+    else if (href.startsWith("../")) href = BASE + "/" + href.replace("../", "");
+    else if (href.startsWith("http") || href.startsWith("//")) { /* biarkan eksternal */ }
+    else if (href.startsWith("/")) href = BASE + href;
+    else href = BASE + "/" + href;
     css.push(href);
   }
 
@@ -89,8 +92,8 @@ function parsePage(filePath, relHtml) {
   while ((m = scriptRe.exec(raw))) {
     const src = (m[1].match(/src="([^"]+)"/) || [])[1];
     if (src) {
-      if (src.startsWith("../../assets/")) scripts.push("/" + src.replace("../../assets/", "assets/"));
-      else if (!src.startsWith("http")) scripts.push(src);
+      if (src.startsWith("../../assets/")) scripts.push(BASE + "/" + src.replace("../../assets/", "assets/"));
+      else if (!src.startsWith("http") && !src.startsWith("//") && !src.startsWith(BASE)) scripts.push(src);
     } else if (m[2].trim()) {
       inlineScripts.push(m[2]);
     }
@@ -105,12 +108,12 @@ function parsePage(filePath, relHtml) {
   body = body.replace(/<script\b[^>]*\/>/gi, "");
 
   // tulis ulang aset & link halaman
-  body = body.replace(/((?:src|href)=")\.\.\/\.\.\/assets\//g, '$1/assets/');
-  body = body.replace(/data-assets-path="\.\.\/\.\.\/assets\/"/g, 'data-assets-path="/assets/"');
+  body = body.replace(/((?:src|href)=")\.\.\/\.\.\/assets\//g, `$1${BASE}/assets/`);
+  body = body.replace(/data-assets-path="\.\.\/\.\.\/assets\/"/g, `data-assets-path="${BASE}/assets/"`);
   body = body.replace(/((?:src|href)=")([^"]*\.html)(#[^"]*)?"/g, (all, pre, file, hash) => {
     const route = routeForFile(file.startsWith("../") ? file.replace("../", "") : file);
     const href = route.startsWith("/") ? route : "/" + route;
-    return `${pre}${href}${hash || ""}"`;
+    return `${pre}${BASE}${href}${hash || ""}"`;
   });
 
   return { route: routeForFile(relHtml), title, css, htmlAttrs, bodyAttrs, scripts, inlineScripts, body };

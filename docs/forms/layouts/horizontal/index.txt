@@ -3,8 +3,8 @@
 3:I[8924,[],""]
 4:I[8975,["6351","static/chunks/app/forms/layouts/horizontal/page-ce3562003a0c6826.js"],"default"]
 8:I[7150,[],""]
-:HL["/_next/static/css/673166a079fea5cb.css","style"]
-5:T1e46d,
+:HL["/materialize-calendar/_next/static/css/673166a079fea5cb.css","style"]
+5:T1f2dd,
     
       
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J3LMKC" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
@@ -24,7 +24,7 @@
 <aside id="layout-menu" class="layout-menu menu-vertical menu" data-bs-theme="dark">
   
   <div class="app-brand demo ">
-    <a href="/" class="app-brand-link">
+    <a href="/materialize-calendar/" class="app-brand-link">
       <span class="app-brand-logo demo">
   <span class="text-primary">
     <svg width="32" height="18" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -72,27 +72,27 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/ecommerce/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/ecommerce/dashboard" class="menu-link">
               <div data-i18n="eCommerce">eCommerce</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/dashboards/crm" class="menu-link">
+            <a href="/materialize-calendar/dashboards/crm" class="menu-link">
               <div data-i18n="CRM">CRM</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/" class="menu-link">
+            <a href="/materialize-calendar/" class="menu-link">
               <div data-i18n="Analytics">Analytics</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/logistics/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/logistics/dashboard" class="menu-link">
               <div data-i18n="Logistics">Logistics</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/academy/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/academy/dashboard" class="menu-link">
               <div data-i18n="Academy">Academy</div>
             </a>
           </li>
@@ -108,17 +108,17 @@
 
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/layouts/collapsed-menu" class="menu-link">
+            <a href="/materialize-calendar/layouts/collapsed-menu" class="menu-link">
               <div data-i18n="Collapsed menu">Collapsed menu</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/content-navbar" class="menu-link">
+            <a href="/materialize-calendar/layouts/content-navbar" class="menu-link">
               <div data-i18n="Content navbar">Content navbar</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/content-navbar-with-sidebar" class="menu-link">
+            <a href="/materialize-calendar/layouts/content-navbar-with-sidebar" class="menu-link">
               <div data-i18n="Content nav + Sidebar">Content nav + Sidebar</div>
             </a>
           </li>
@@ -128,27 +128,27 @@
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/without-menu" class="menu-link">
+            <a href="/materialize-calendar/layouts/without-menu" class="menu-link">
               <div data-i18n="Without menu">Without menu</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/without-navbar" class="menu-link">
+            <a href="/materialize-calendar/layouts/without-navbar" class="menu-link">
               <div data-i18n="Without navbar">Without navbar</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/fluid" class="menu-link">
+            <a href="/materialize-calendar/layouts/fluid" class="menu-link">
               <div data-i18n="Fluid">Fluid</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/container" class="menu-link">
+            <a href="/materialize-calendar/layouts/container" class="menu-link">
               <div data-i18n="Container">Container</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/layouts/blank" class="menu-link">
+            <a href="/materialize-calendar/layouts/blank" class="menu-link">
               <div data-i18n="Blank">Blank</div>
             </a>
           </li>
@@ -163,27 +163,27 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/front-pages/landing-page" class="menu-link" target="_blank">
+            <a href="/materialize-calendar/front-pages/landing-page" class="menu-link" target="_blank">
               <div data-i18n="Landing">Landing</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/front-pages/pricing-page" class="menu-link" target="_blank">
+            <a href="/materialize-calendar/front-pages/pricing-page" class="menu-link" target="_blank">
               <div data-i18n="Pricing">Pricing</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/front-pages/payment-page" class="menu-link" target="_blank">
+            <a href="/materialize-calendar/front-pages/payment-page" class="menu-link" target="_blank">
               <div data-i18n="Payment">Payment</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/front-pages/checkout-page" class="menu-link" target="_blank">
+            <a href="/materialize-calendar/front-pages/checkout-page" class="menu-link" target="_blank">
               <div data-i18n="Checkout">Checkout</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/front-pages/help-center-landing" class="menu-link" target="_blank">
+            <a href="/materialize-calendar/front-pages/help-center-landing" class="menu-link" target="_blank">
               <div data-i18n="Help Center">Help Center</div>
             </a>
           </li>
@@ -195,25 +195,25 @@
         <span class="menu-header-text" data-i18n="Apps & Pages">Apps &amp; Pages</span>
       </li>
       <li class="menu-item">
-        <a href="/apps/email" class="menu-link">
+        <a href="/materialize-calendar/apps/email" class="menu-link">
           <i class="menu-icon icon-base ri ri-mail-open-line"></i>
           <div data-i18n="Email">Email</div>
         </a>
       </li>
       <li class="menu-item">
-        <a href="/apps/chat" class="menu-link">
+        <a href="/materialize-calendar/apps/chat" class="menu-link">
           <i class="menu-icon icon-base ri ri-wechat-line"></i>
           <div data-i18n="Chat">Chat</div>
         </a>
       </li>
       <li class="menu-item">
-        <a href="/apps/calendar" class="menu-link">
+        <a href="/materialize-calendar/apps/calendar" class="menu-link">
           <i class="menu-icon icon-base ri ri-calendar-line"></i>
           <div data-i18n="Calendar">Calendar</div>
         </a>
       </li>
       <li class="menu-item">
-        <a href="/apps/kanban" class="menu-link">
+        <a href="/materialize-calendar/apps/kanban" class="menu-link">
           <i class="menu-icon icon-base ri ri-drag-drop-line"></i>
           <div data-i18n="Kanban">Kanban</div>
         </a>
@@ -226,7 +226,7 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/ecommerce/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/ecommerce/dashboard" class="menu-link">
               <div data-i18n="Dashboard">Dashboard</div>
             </a>
           </li>
@@ -236,17 +236,17 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/apps/ecommerce/product/list" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/product/list" class="menu-link">
                   <div data-i18n="Product List">Product List</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/product/add" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/product/add" class="menu-link">
                   <div data-i18n="Add Product">Add Product</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/category/list" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/category/list" class="menu-link">
                   <div data-i18n="Category List">Category List</div>
                 </a>
               </li>
@@ -258,12 +258,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/apps/ecommerce/order/list" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/order/list" class="menu-link">
                   <div data-i18n="Order List">Order List</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/order/details" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/order/details" class="menu-link">
                   <div data-i18n="Order Details">Order Details</div>
                 </a>
               </li>
@@ -275,7 +275,7 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/apps/ecommerce/customer/all" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/customer/all" class="menu-link">
                   <div data-i18n="All Customers">All Customers</div>
                 </a>
               </li>
@@ -285,22 +285,22 @@
                 </a>
                 <ul class="menu-sub">
                   <li class="menu-item">
-                    <a href="/apps/ecommerce/customer/details/overview" class="menu-link">
+                    <a href="/materialize-calendar/apps/ecommerce/customer/details/overview" class="menu-link">
                       <div data-i18n="Overview">Overview</div>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="/apps/ecommerce/customer/details/security" class="menu-link">
+                    <a href="/materialize-calendar/apps/ecommerce/customer/details/security" class="menu-link">
                       <div data-i18n="Security">Security</div>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="/apps/ecommerce/customer/details/billing" class="menu-link">
+                    <a href="/materialize-calendar/apps/ecommerce/customer/details/billing" class="menu-link">
                       <div data-i18n="Address & Billing">Address & Billing</div>
                     </a>
                   </li>
                   <li class="menu-item">
-                    <a href="/apps/ecommerce/customer/details/notifications" class="menu-link">
+                    <a href="/materialize-calendar/apps/ecommerce/customer/details/notifications" class="menu-link">
                       <div data-i18n="Notifications">Notifications</div>
                     </a>
                   </li>
@@ -309,12 +309,12 @@
             </ul>
           </li>
           <li class="menu-item">
-            <a href="/apps/ecommerce/manage/reviews" class="menu-link">
+            <a href="/materialize-calendar/apps/ecommerce/manage/reviews" class="menu-link">
               <div data-i18n="Manage Reviews">Manage Reviews</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/ecommerce/referral" class="menu-link">
+            <a href="/materialize-calendar/apps/ecommerce/referral" class="menu-link">
               <div data-i18n="Referrals">Referrals</div>
             </a>
           </li>
@@ -324,32 +324,32 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/detail" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/detail" class="menu-link">
                   <div data-i18n="Store Details">Store Details</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/payments" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/payments" class="menu-link">
                   <div data-i18n="Payments">Payments</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/checkout" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/checkout" class="menu-link">
                   <div data-i18n="Checkout">Checkout</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/shipping" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/shipping" class="menu-link">
                   <div data-i18n="Shipping & Delivery">Shipping & Delivery</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/locations" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/locations" class="menu-link">
                   <div data-i18n="Locations">Locations</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/ecommerce/settings/notifications" class="menu-link">
+                <a href="/materialize-calendar/apps/ecommerce/settings/notifications" class="menu-link">
                   <div data-i18n="Notifications">Notifications</div>
                 </a>
               </li>
@@ -366,17 +366,17 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/academy/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/academy/dashboard" class="menu-link">
               <div data-i18n="Dashboard">Dashboard</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/academy/course" class="menu-link">
+            <a href="/materialize-calendar/apps/academy/course" class="menu-link">
               <div data-i18n="My Course">My Course</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/academy/course/details" class="menu-link">
+            <a href="/materialize-calendar/apps/academy/course/details" class="menu-link">
               <div data-i18n="Course Details">Course Details</div>
             </a>
           </li>
@@ -390,12 +390,12 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/logistics/dashboard" class="menu-link">
+            <a href="/materialize-calendar/apps/logistics/dashboard" class="menu-link">
               <div data-i18n="Dashboard">Dashboard</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/logistics/fleet" class="menu-link">
+            <a href="/materialize-calendar/apps/logistics/fleet" class="menu-link">
               <div data-i18n="Fleet">Fleet</div>
             </a>
           </li>
@@ -408,22 +408,22 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/invoice/list" class="menu-link">
+            <a href="/materialize-calendar/apps/invoice/list" class="menu-link">
               <div data-i18n="List">List</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/invoice/preview" class="menu-link">
+            <a href="/materialize-calendar/apps/invoice/preview" class="menu-link">
               <div data-i18n="Preview">Preview</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/invoice/edit" class="menu-link">
+            <a href="/materialize-calendar/apps/invoice/edit" class="menu-link">
               <div data-i18n="Edit">Edit</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/invoice/add" class="menu-link">
+            <a href="/materialize-calendar/apps/invoice/add" class="menu-link">
               <div data-i18n="Add">Add</div>
             </a>
           </li>
@@ -436,7 +436,7 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/user/list" class="menu-link">
+            <a href="/materialize-calendar/apps/user/list" class="menu-link">
               <div data-i18n="List">List</div>
             </a>
           </li>
@@ -447,27 +447,27 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/apps/user/view/account" class="menu-link">
+                <a href="/materialize-calendar/apps/user/view/account" class="menu-link">
                   <div data-i18n="Account">Account</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/user/view/security" class="menu-link">
+                <a href="/materialize-calendar/apps/user/view/security" class="menu-link">
                   <div data-i18n="Security">Security</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/user/view/billing" class="menu-link">
+                <a href="/materialize-calendar/apps/user/view/billing" class="menu-link">
                   <div data-i18n="Billing & Plans">Billing & Plans</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/user/view/notifications" class="menu-link">
+                <a href="/materialize-calendar/apps/user/view/notifications" class="menu-link">
                   <div data-i18n="Notifications">Notifications</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/apps/user/view/connections" class="menu-link">
+                <a href="/materialize-calendar/apps/user/view/connections" class="menu-link">
                   <div data-i18n="Connections">Connections</div>
                 </a>
               </li>
@@ -482,12 +482,12 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/apps/access/roles" class="menu-link">
+            <a href="/materialize-calendar/apps/access/roles" class="menu-link">
               <div data-i18n="Roles">Roles</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/apps/access/permission" class="menu-link">
+            <a href="/materialize-calendar/apps/access/permission" class="menu-link">
               <div data-i18n="Permission">Permission</div>
             </a>
           </li>
@@ -505,22 +505,22 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/pages/profile-user" class="menu-link">
+                <a href="/materialize-calendar/pages/profile-user" class="menu-link">
                   <div data-i18n="Profile">Profile</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/profile-teams" class="menu-link">
+                <a href="/materialize-calendar/pages/profile-teams" class="menu-link">
                   <div data-i18n="Teams">Teams</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/profile-projects" class="menu-link">
+                <a href="/materialize-calendar/pages/profile-projects" class="menu-link">
                   <div data-i18n="Projects">Projects</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/profile-connections" class="menu-link">
+                <a href="/materialize-calendar/pages/profile-connections" class="menu-link">
                   <div data-i18n="Connections">Connections</div>
                 </a>
               </li>
@@ -532,39 +532,39 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/pages/account-settings-account" class="menu-link">
+                <a href="/materialize-calendar/pages/account-settings-account" class="menu-link">
                   <div data-i18n="Account">Account</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/account-settings-security" class="menu-link">
+                <a href="/materialize-calendar/pages/account-settings-security" class="menu-link">
                   <div data-i18n="Security">Security</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/account-settings-billing" class="menu-link">
+                <a href="/materialize-calendar/pages/account-settings-billing" class="menu-link">
                   <div data-i18n="Billing & Plans">Billing & Plans</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/account-settings-notifications" class="menu-link">
+                <a href="/materialize-calendar/pages/account-settings-notifications" class="menu-link">
                   <div data-i18n="Notifications">Notifications</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/account-settings-connections" class="menu-link">
+                <a href="/materialize-calendar/pages/account-settings-connections" class="menu-link">
                   <div data-i18n="Connections">Connections</div>
                 </a>
               </li>
             </ul>
           </li>
           <li class="menu-item">
-            <a href="/pages/faq" class="menu-link">
+            <a href="/materialize-calendar/pages/faq" class="menu-link">
               <div data-i18n="FAQ">FAQ</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/pages/pricing" class="menu-link">
+            <a href="/materialize-calendar/pages/pricing" class="menu-link">
               <div data-i18n="Pricing">Pricing</div>
             </a>
           </li>
@@ -574,27 +574,27 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/pages/misc-error" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/pages/misc-error" class="menu-link" target="_blank">
                   <div data-i18n="Error">Error</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/misc-under-maintenance" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/pages/misc-under-maintenance" class="menu-link" target="_blank">
                   <div data-i18n="Under Maintenance">Under Maintenance</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/misc-comingsoon" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/pages/misc-comingsoon" class="menu-link" target="_blank">
                   <div data-i18n="Coming Soon">Coming Soon</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/misc-not-authorized" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/pages/misc-not-authorized" class="menu-link" target="_blank">
                   <div data-i18n="Not Authorized">Not Authorized</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/pages/misc-server-error" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/pages/misc-server-error" class="menu-link" target="_blank">
                   <div data-i18n="Server Error">Server Error</div>
                 </a>
               </li>
@@ -614,12 +614,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/login-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/login-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/login-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/login-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
@@ -631,17 +631,17 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/register-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/register-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/register-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/register-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/register-multisteps" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/register-multisteps" class="menu-link" target="_blank">
                   <div data-i18n="Multi-steps">Multi-steps</div>
                 </a>
               </li>
@@ -653,12 +653,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/verify-email-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/verify-email-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/verify-email-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/verify-email-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
@@ -670,12 +670,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/reset-password-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/reset-password-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/reset-password-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/reset-password-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
@@ -687,12 +687,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/forgot-password-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/forgot-password-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/forgot-password-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/forgot-password-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
@@ -704,12 +704,12 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/auth/two-steps-basic" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/two-steps-basic" class="menu-link" target="_blank">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/auth/two-steps-cover" class="menu-link" target="_blank">
+                <a href="/materialize-calendar/auth/two-steps-cover" class="menu-link" target="_blank">
                   <div data-i18n="Cover">Cover</div>
                 </a>
               </li>
@@ -724,24 +724,24 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/wizard/checkout" class="menu-link">
+            <a href="/materialize-calendar/wizard/checkout" class="menu-link">
               <div data-i18n="Checkout">Checkout</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/wizard/property-listing" class="menu-link">
+            <a href="/materialize-calendar/wizard/property-listing" class="menu-link">
               <div data-i18n="Property Listing">Property Listing</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/wizard/create-deal" class="menu-link">
+            <a href="/materialize-calendar/wizard/create-deal" class="menu-link">
               <div data-i18n="Create Deal">Create Deal</div>
             </a>
           </li>
         </ul>
       </li>
       <li class="menu-item">
-        <a href="/modal/examples" class="menu-link">
+        <a href="/materialize-calendar/modal/examples" class="menu-link">
           <i class="menu-icon icon-base ri ri-tv-2-line"></i>
           <div data-i18n="Modal Examples">Modal Examples</div>
         </a>
@@ -760,32 +760,32 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/cards/basic" class="menu-link">
+            <a href="/materialize-calendar/cards/basic" class="menu-link">
               <div data-i18n="Basic">Basic</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/cards/advance" class="menu-link">
+            <a href="/materialize-calendar/cards/advance" class="menu-link">
               <div data-i18n="Advance">Advance</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/cards/statistics" class="menu-link">
+            <a href="/materialize-calendar/cards/statistics" class="menu-link">
               <div data-i18n="Statistics">Statistics</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/cards/analytics" class="menu-link">
+            <a href="/materialize-calendar/cards/analytics" class="menu-link">
               <div data-i18n="Analytics">Analytics</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/cards/gamifications" class="menu-link">
+            <a href="/materialize-calendar/cards/gamifications" class="menu-link">
               <div data-i18n="Gamifications">Gamifications</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/cards/actions" class="menu-link">
+            <a href="/materialize-calendar/cards/actions" class="menu-link">
               <div data-i18n="Actions">Actions</div>
             </a>
           </li>
@@ -799,97 +799,97 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/ui/accordion" class="menu-link">
+            <a href="/materialize-calendar/ui/accordion" class="menu-link">
               <div data-i18n="Accordion">Accordion</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/alerts" class="menu-link">
+            <a href="/materialize-calendar/ui/alerts" class="menu-link">
               <div data-i18n="Alerts">Alerts</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/badges" class="menu-link">
+            <a href="/materialize-calendar/ui/badges" class="menu-link">
               <div data-i18n="Badges">Badges</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/buttons" class="menu-link">
+            <a href="/materialize-calendar/ui/buttons" class="menu-link">
               <div data-i18n="Buttons">Buttons</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/carousel" class="menu-link">
+            <a href="/materialize-calendar/ui/carousel" class="menu-link">
               <div data-i18n="Carousel">Carousel</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/collapse" class="menu-link">
+            <a href="/materialize-calendar/ui/collapse" class="menu-link">
               <div data-i18n="Collapse">Collapse</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/dropdowns" class="menu-link">
+            <a href="/materialize-calendar/ui/dropdowns" class="menu-link">
               <div data-i18n="Dropdowns">Dropdowns</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/footer" class="menu-link">
+            <a href="/materialize-calendar/ui/footer" class="menu-link">
               <div data-i18n="Footer">Footer</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/list-groups" class="menu-link">
+            <a href="/materialize-calendar/ui/list-groups" class="menu-link">
               <div data-i18n="List Groups">List Groups</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/modals" class="menu-link">
+            <a href="/materialize-calendar/ui/modals" class="menu-link">
               <div data-i18n="Modals">Modals</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/navbar" class="menu-link">
+            <a href="/materialize-calendar/ui/navbar" class="menu-link">
               <div data-i18n="Navbar">Navbar</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/offcanvas" class="menu-link">
+            <a href="/materialize-calendar/ui/offcanvas" class="menu-link">
               <div data-i18n="Offcanvas">Offcanvas</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/pagination-breadcrumbs" class="menu-link">
+            <a href="/materialize-calendar/ui/pagination-breadcrumbs" class="menu-link">
               <div data-i18n="Pagination & Breadcrumbs">Pagination &amp; Breadcrumbs</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/progress" class="menu-link">
+            <a href="/materialize-calendar/ui/progress" class="menu-link">
               <div data-i18n="Progress">Progress</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/spinners" class="menu-link">
+            <a href="/materialize-calendar/ui/spinners" class="menu-link">
               <div data-i18n="Spinners">Spinners</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/tabs-pills" class="menu-link">
+            <a href="/materialize-calendar/ui/tabs-pills" class="menu-link">
               <div data-i18n="Tabs & Pills">Tabs &amp; Pills</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/toasts" class="menu-link">
+            <a href="/materialize-calendar/ui/toasts" class="menu-link">
               <div data-i18n="Toasts">Toasts</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/tooltips-popovers" class="menu-link">
+            <a href="/materialize-calendar/ui/tooltips-popovers" class="menu-link">
               <div data-i18n="Tooltips & Popovers">Tooltips &amp; Popovers</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/ui/typography" class="menu-link">
+            <a href="/materialize-calendar/ui/typography" class="menu-link">
               <div data-i18n="Typography">Typography</div>
             </a>
           </li>
@@ -904,42 +904,42 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/extended-ui/avatar" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/avatar" class="menu-link">
               <div data-i18n="Avatar">Avatar</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/blockui" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/blockui" class="menu-link">
               <div data-i18n="BlockUI">BlockUI</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/drag-and-drop" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/drag-and-drop" class="menu-link">
               <div data-i18n="Drag & Drop">Drag &amp; Drop</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/media-player" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/media-player" class="menu-link">
               <div data-i18n="Media Player">Media Player</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/perfect-scrollbar" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/perfect-scrollbar" class="menu-link">
               <div data-i18n="Perfect Scrollbar">Perfect Scrollbar</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/star-ratings" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/star-ratings" class="menu-link">
               <div data-i18n="Star Ratings">Star Ratings</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/sweetalert2" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/sweetalert2" class="menu-link">
               <div data-i18n="SweetAlert2">SweetAlert2</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/text-divider" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/text-divider" class="menu-link">
               <div data-i18n="Text Divider">Text Divider</div>
             </a>
           </li>
@@ -949,29 +949,29 @@
             </a>
             <ul class="menu-sub">
               <li class="menu-item">
-                <a href="/extended-ui/timeline-basic" class="menu-link">
+                <a href="/materialize-calendar/extended-ui/timeline-basic" class="menu-link">
                   <div data-i18n="Basic">Basic</div>
                 </a>
               </li>
               <li class="menu-item">
-                <a href="/extended-ui/timeline-fullscreen" class="menu-link">
+                <a href="/materialize-calendar/extended-ui/timeline-fullscreen" class="menu-link">
                   <div data-i18n="Fullscreen">Fullscreen</div>
                 </a>
               </li>
             </ul>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/tour" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/tour" class="menu-link">
               <div data-i18n="Tour">Tour</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/treeview" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/treeview" class="menu-link">
               <div data-i18n="Treeview">Treeview</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/extended-ui/misc" class="menu-link">
+            <a href="/materialize-calendar/extended-ui/misc" class="menu-link">
               <div data-i18n="Miscellaneous">Miscellaneous</div>
             </a>
           </li>
@@ -980,7 +980,7 @@
 
       <!-- Icons -->
       <li class="menu-item">
-        <a href="/icons/ri" class="menu-link">
+        <a href="/materialize-calendar/icons/ri" class="menu-link">
           <i class="menu-icon icon-base ri ri-remixicon-line"></i>
           <div data-i18n="Icons">Icons</div>
         </a>
@@ -998,52 +998,52 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/forms/basic-inputs" class="menu-link">
+            <a href="/materialize-calendar/forms/basic-inputs" class="menu-link">
               <div data-i18n="Basic Inputs">Basic Inputs</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/input-groups" class="menu-link">
+            <a href="/materialize-calendar/forms/input-groups" class="menu-link">
               <div data-i18n="Input groups">Input groups</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/custom-options" class="menu-link">
+            <a href="/materialize-calendar/forms/custom-options" class="menu-link">
               <div data-i18n="Custom Options">Custom Options</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/editors" class="menu-link">
+            <a href="/materialize-calendar/forms/editors" class="menu-link">
               <div data-i18n="Editors">Editors</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/file-upload" class="menu-link">
+            <a href="/materialize-calendar/forms/file-upload" class="menu-link">
               <div data-i18n="File Upload">File Upload</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/pickers" class="menu-link">
+            <a href="/materialize-calendar/forms/pickers" class="menu-link">
               <div data-i18n="Pickers">Pickers</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/selects" class="menu-link">
+            <a href="/materialize-calendar/forms/selects" class="menu-link">
               <div data-i18n="Select & Tags">Select &amp; Tags</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/sliders" class="menu-link">
+            <a href="/materialize-calendar/forms/sliders" class="menu-link">
               <div data-i18n="Sliders">Sliders</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/switches" class="menu-link">
+            <a href="/materialize-calendar/forms/switches" class="menu-link">
               <div data-i18n="Switches">Switches</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/extras" class="menu-link">
+            <a href="/materialize-calendar/forms/extras" class="menu-link">
               <div data-i18n="Extras">Extras</div>
             </a>
           </li>
@@ -1056,17 +1056,17 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/forms/layouts/vertical" class="menu-link">
+            <a href="/materialize-calendar/forms/layouts/vertical" class="menu-link">
               <div data-i18n="Vertical Form">Vertical Form</div>
             </a>
           </li>
           <li class="menu-item active">
-            <a href="/forms/layouts/horizontal" class="menu-link">
+            <a href="/materialize-calendar/forms/layouts/horizontal" class="menu-link">
               <div data-i18n="Horizontal Form">Horizontal Form</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/layouts/sticky" class="menu-link">
+            <a href="/materialize-calendar/forms/layouts/sticky" class="menu-link">
               <div data-i18n="Sticky Actions">Sticky Actions</div>
             </a>
           </li>
@@ -1079,26 +1079,26 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/forms/wizard/numbered" class="menu-link">
+            <a href="/materialize-calendar/forms/wizard/numbered" class="menu-link">
               <div data-i18n="Numbered">Numbered</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/forms/wizard/icons" class="menu-link">
+            <a href="/materialize-calendar/forms/wizard/icons" class="menu-link">
               <div data-i18n="Icons">Icons</div>
             </a>
           </li>
         </ul>
       </li>
       <li class="menu-item">
-        <a href="/forms/validation" class="menu-link">
+        <a href="/materialize-calendar/forms/validation" class="menu-link">
           <i class="menu-icon icon-base ri ri-checkbox-multiple-line"></i>
           <div data-i18n="Form Validation">Form Validation</div>
         </a>
       </li>
       <!-- Tables -->
       <li class="menu-item">
-        <a href="/tables/basic" class="menu-link">
+        <a href="/materialize-calendar/tables/basic" class="menu-link">
           <i class="menu-icon icon-base ri ri-table-alt-line"></i>
           <div data-i18n="Tables">Tables</div>
         </a>
@@ -1110,17 +1110,17 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/tables/datatables-basic" class="menu-link">
+            <a href="/materialize-calendar/tables/datatables-basic" class="menu-link">
               <div data-i18n="Basic">Basic</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/tables/datatables-advanced" class="menu-link">
+            <a href="/materialize-calendar/tables/datatables-advanced" class="menu-link">
               <div data-i18n="Advanced">Advanced</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/tables/datatables-extensions" class="menu-link">
+            <a href="/materialize-calendar/tables/datatables-extensions" class="menu-link">
               <div data-i18n="Extensions">Extensions</div>
             </a>
           </li>
@@ -1138,19 +1138,19 @@
         </a>
         <ul class="menu-sub">
           <li class="menu-item">
-            <a href="/charts/apex" class="menu-link">
+            <a href="/materialize-calendar/charts/apex" class="menu-link">
               <div data-i18n="Apex Charts">Apex Charts</div>
             </a>
           </li>
           <li class="menu-item">
-            <a href="/charts/chartjs" class="menu-link">
+            <a href="/materialize-calendar/charts/chartjs" class="menu-link">
               <div data-i18n="ChartJS">ChartJS</div>
             </a>
           </li>
         </ul>
       </li>
       <li class="menu-item">
-        <a href="/maps/leaflet" class="menu-link">
+        <a href="/materialize-calendar/maps/leaflet" class="menu-link">
           <i class="menu-icon icon-base ri ri-map-2-line"></i>
           <div data-i18n="Leaflet Maps">Leaflet Maps</div>
         </a>
@@ -1329,14 +1329,14 @@
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-calendar-line icon-26px text-heading"></i>
                 </span>
-                <a href="/apps/calendar" class="stretched-link">Calendar</a>
+                <a href="/materialize-calendar/apps/calendar" class="stretched-link">Calendar</a>
                 <small>Appointments</small>
               </div>
               <div class="dropdown-shortcuts-item col">
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-file-text-line icon-26px text-heading"></i>
                 </span>
-                <a href="/apps/invoice/list" class="stretched-link">Invoice App</a>
+                <a href="/materialize-calendar/apps/invoice/list" class="stretched-link">Invoice App</a>
                 <small>Manage Accounts</small>
               </div>
             </div>
@@ -1345,14 +1345,14 @@
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-user-line icon-26px text-heading"></i>
                 </span>
-                <a href="/apps/user/list" class="stretched-link">User App</a>
+                <a href="/materialize-calendar/apps/user/list" class="stretched-link">User App</a>
                 <small>Manage Users</small>
               </div>
               <div class="dropdown-shortcuts-item col">
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-computer-line icon-26px text-heading"></i>
                 </span>
-                <a href="/apps/access/roles" class="stretched-link">Role Management</a>
+                <a href="/materialize-calendar/apps/access/roles" class="stretched-link">Role Management</a>
                 <small>Permission</small>
               </div>
             </div>
@@ -1361,14 +1361,14 @@
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-pie-chart-2-line icon-26px text-heading"></i>
                 </span>
-                <a href="/" class="stretched-link">Dashboard</a>
+                <a href="/materialize-calendar/" class="stretched-link">Dashboard</a>
                 <small>User Dashboard</small>
               </div>
               <div class="dropdown-shortcuts-item col">
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-settings-4-line icon-26px text-heading"></i>
                 </span>
-                <a href="/pages/account-settings-account" class="stretched-link">Setting</a>
+                <a href="/materialize-calendar/pages/account-settings-account" class="stretched-link">Setting</a>
                 <small>Account Settings</small>
               </div>
             </div>
@@ -1377,14 +1377,14 @@
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-question-line icon-26px text-heading"></i>
                 </span>
-                <a href="/pages/faq" class="stretched-link">FAQs</a>
+                <a href="/materialize-calendar/pages/faq" class="stretched-link">FAQs</a>
                 <small>FAQs & Articles</small>
               </div>
               <div class="dropdown-shortcuts-item col">
                 <span class="dropdown-shortcuts-icon rounded-circle mb-3">
                   <i class="icon-base ri ri-tv-2-line icon-26px text-heading"></i>
                 </span>
-                <a href="/modal/examples" class="stretched-link">Modals</a>
+                <a href="/materialize-calendar/modal/examples" class="stretched-link">Modals</a>
                 <small>Useful Popups</small>
               </div>
             </div>
@@ -1415,7 +1415,7 @@
                 <div class="d-flex">
                   <div class="flex-shrink-0 me-3">
                     <div class="avatar">
-                      <img src="/assets/img/avatars/1.png" alt="avatar" class="rounded-circle" />
+                      <img src="/materialize-calendar/assets/img/avatars/1.png" alt="avatar" class="rounded-circle" />
                     </div>
                   </div>
                   <div class="flex-grow-1">
@@ -1451,7 +1451,7 @@
                 <div class="d-flex">
                   <div class="flex-shrink-0 me-3">
                     <div class="avatar">
-                      <img src="/assets/img/avatars/2.png" alt="avatar" class="rounded-circle" />
+                      <img src="/materialize-calendar/assets/img/avatars/2.png" alt="avatar" class="rounded-circle" />
                     </div>
                   </div>
                   <div class="flex-grow-1">
@@ -1487,7 +1487,7 @@
                 <div class="d-flex">
                   <div class="flex-shrink-0 me-3">
                     <div class="avatar">
-                      <img src="/assets/img/avatars/9.png" alt="avatar" class="rounded-circle" />
+                      <img src="/materialize-calendar/assets/img/avatars/9.png" alt="avatar" class="rounded-circle" />
                     </div>
                   </div>
                   <div class="flex-grow-1">
@@ -1523,7 +1523,7 @@
                 <div class="d-flex">
                   <div class="flex-shrink-0 me-3">
                     <div class="avatar">
-                      <img src="/assets/img/avatars/5.png" alt="avatar" class="rounded-circle" />
+                      <img src="/materialize-calendar/assets/img/avatars/5.png" alt="avatar" class="rounded-circle" />
                     </div>
                   </div>
                   <div class="flex-grow-1">
@@ -1541,7 +1541,7 @@
                 <div class="d-flex">
                   <div class="flex-shrink-0 me-3">
                     <div class="avatar">
-                      <img src="/assets/img/avatars/6.png" alt="avatar" class="rounded-circle" />
+                      <img src="/materialize-calendar/assets/img/avatars/6.png" alt="avatar" class="rounded-circle" />
                     </div>
                   </div>
                   <div class="flex-grow-1">
@@ -1590,16 +1590,16 @@
       <li class="nav-item navbar-dropdown dropdown-user dropdown">
         <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
           <div class="avatar avatar-online">
-            <img src="/assets/img/avatars/1.png" alt="avatar" class="rounded-circle" />
+            <img src="/materialize-calendar/assets/img/avatars/1.png" alt="avatar" class="rounded-circle" />
           </div>
         </a>
         <ul class="dropdown-menu dropdown-menu-end mt-3 py-2">
           <li>
-            <a class="dropdown-item" href="/pages/account-settings-account">
+            <a class="dropdown-item" href="/materialize-calendar/pages/account-settings-account">
               <div class="d-flex align-items-center">
                 <div class="flex-shrink-0 me-2">
                   <div class="avatar avatar-online">
-                    <img src="/assets/img/avatars/1.png" alt="alt" class="w-px-40 h-auto rounded-circle" />
+                    <img src="/materialize-calendar/assets/img/avatars/1.png" alt="alt" class="w-px-40 h-auto rounded-circle" />
                   </div>
                 </div>
                 <div class="flex-grow-1">
@@ -1613,13 +1613,13 @@
             <div class="dropdown-divider"></div>
           </li>
           <li>
-            <a class="dropdown-item" href="/pages/profile-user"> <i class="icon-base ri ri-user-3-line icon-22px me-3"></i><span class="align-middle">My Profile</span> </a>
+            <a class="dropdown-item" href="/materialize-calendar/pages/profile-user"> <i class="icon-base ri ri-user-3-line icon-22px me-3"></i><span class="align-middle">My Profile</span> </a>
           </li>
           <li>
-            <a class="dropdown-item" href="/pages/account-settings-account"> <i class="icon-base ri ri-settings-4-line icon-22px me-3"></i><span class="align-middle">Settings</span> </a>
+            <a class="dropdown-item" href="/materialize-calendar/pages/account-settings-account"> <i class="icon-base ri ri-settings-4-line icon-22px me-3"></i><span class="align-middle">Settings</span> </a>
           </li>
           <li>
-            <a class="dropdown-item" href="/pages/account-settings-billing">
+            <a class="dropdown-item" href="/materialize-calendar/pages/account-settings-billing">
               <span class="d-flex align-items-center align-middle">
                 <i class="flex-shrink-0 icon-base ri ri-file-text-line icon-22px me-3"></i>
                 <span class="flex-grow-1 align-middle">Billing Plan</span>
@@ -1631,14 +1631,14 @@
             <div class="dropdown-divider"></div>
           </li>
           <li>
-            <a class="dropdown-item" href="/pages/pricing"> <i class="icon-base ri ri-money-dollar-circle-line icon-22px me-3"></i><span class="align-middle">Pricing</span> </a>
+            <a class="dropdown-item" href="/materialize-calendar/pages/pricing"> <i class="icon-base ri ri-money-dollar-circle-line icon-22px me-3"></i><span class="align-middle">Pricing</span> </a>
           </li>
           <li>
-            <a class="dropdown-item" href="/pages/faq"> <i class="icon-base ri ri-question-line icon-22px me-3"></i><span class="align-middle">FAQ</span> </a>
+            <a class="dropdown-item" href="/materialize-calendar/pages/faq"> <i class="icon-base ri ri-question-line icon-22px me-3"></i><span class="align-middle">FAQ</span> </a>
           </li>
           <li>
             <div class="d-grid px-4 pt-2 pb-1">
-              <a class="btn btn-sm btn-danger d-flex" href="/auth/login-cover" target="_blank">
+              <a class="btn btn-sm btn-danger d-flex" href="/materialize-calendar/auth/login-cover" target="_blank">
                 <small class="align-middle">Logout</small>
                 <i class="icon-base ri ri-logout-box-r-line ms-2 icon-16px"></i>
               </a>
@@ -2645,7 +2645,7 @@
     <!-- Page JS -->
     
     
-  0:{"P":null,"b":"nQYRuUDBYUWi8DobFTXPO","p":"","c":["","forms","layouts","horizontal",""],"i":false,"f":[[["",{"children":["forms",{"children":["layouts",{"children":["horizontal",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/iconify-icons.css"}],["$","link","/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/flag-icons.css"}],["$","link","/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/assets/vendor/css/core.css"}],["$","link","/assets/css/demo.css",{"rel":"stylesheet","href":"/assets/css/demo.css"}],["$","link","/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["forms",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["layouts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["horizontal",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/assets/vendor/fonts/iconify-icons.css","/assets/vendor/libs/node-waves/node-waves.css","/assets/vendor/libs/pickr/pickr-themes.css","/assets/vendor/css/core.css","/assets/css/demo.css","/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css","/assets/vendor/libs/flatpickr/flatpickr.css","/assets/vendor/libs/select2/select2.css"],"scripts":["/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/js/helpers.js","/assets/vendor/js/template-customizer.js","/assets/js/config.js","/assets/vendor/libs/jquery/jquery.js","/assets/vendor/libs/popper/popper.js","/assets/vendor/js/bootstrap.js","/assets/vendor/libs/node-waves/node-waves.js","/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/libs/pickr/pickr.js","/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js","/assets/vendor/libs/hammer/hammer.js","/assets/vendor/libs/i18n/i18n.js","/assets/vendor/js/menu.js","/assets/vendor/libs/cleave-zen/cleave-zen.js","/assets/vendor/libs/moment/moment.js","/assets/vendor/libs/flatpickr/flatpickr.js","/assets/vendor/libs/select2/select2.js","/assets/js/main.js","/assets/js/form-layouts.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n          document.write(new Date().getFullYear());\r\n        "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-menu-fixed layout-compact ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"vertical-menu-template-semi-dark"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
+  0:{"P":null,"b":"5pqqXYjxTu2Q38y89ERUd","p":"/materialize-calendar","c":["","forms","layouts","horizontal",""],"i":false,"f":[[["",{"children":["forms",{"children":["layouts",{"children":["horizontal",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/materialize-calendar/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/materialize-calendar/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/iconify-icons.css"}],["$","link","/materialize-calendar/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/flag-icons.css"}],["$","link","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/materialize-calendar/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/css/core.css"}],["$","link","/materialize-calendar/assets/css/demo.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/css/demo.css"}],["$","link","/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["forms",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["layouts",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["horizontal",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/materialize-calendar/assets/vendor/fonts/iconify-icons.css","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css","/materialize-calendar/assets/vendor/css/core.css","/materialize-calendar/assets/css/demo.css","/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css","/materialize-calendar/assets/vendor/libs/flatpickr/flatpickr.css","/materialize-calendar/assets/vendor/libs/select2/select2.css"],"scripts":["/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/js/helpers.js","/materialize-calendar/assets/vendor/js/template-customizer.js","/materialize-calendar/assets/js/config.js","/materialize-calendar/assets/vendor/libs/jquery/jquery.js","/materialize-calendar/assets/vendor/libs/popper/popper.js","/materialize-calendar/assets/vendor/js/bootstrap.js","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.js","/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/libs/pickr/pickr.js","/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js","/materialize-calendar/assets/vendor/libs/hammer/hammer.js","/materialize-calendar/assets/vendor/libs/i18n/i18n.js","/materialize-calendar/assets/vendor/js/menu.js","/materialize-calendar/assets/vendor/libs/cleave-zen/cleave-zen.js","/materialize-calendar/assets/vendor/libs/moment/moment.js","/materialize-calendar/assets/vendor/libs/flatpickr/flatpickr.js","/materialize-calendar/assets/vendor/libs/select2/select2.js","/materialize-calendar/assets/js/main.js","/materialize-calendar/assets/js/form-layouts.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n          document.write(new Date().getFullYear());\r\n        "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-menu-fixed layout-compact ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"vertical-menu-template-semi-dark"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
 9:I[4431,[],"OutletBoundary"]
 b:I[5278,[],"AsyncMetadataOutlet"]
 d:I[4431,[],"ViewportBoundary"]

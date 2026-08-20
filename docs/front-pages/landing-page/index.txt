@@ -3,8 +3,8 @@
 3:I[8924,[],""]
 4:I[8975,["8469","static/chunks/app/front-pages/landing-page/page-ce3562003a0c6826.js"],"default"]
 8:I[7150,[],""]
-:HL["/_next/static/css/673166a079fea5cb.css","style"]
-5:T13ce3,
+:HL["/materialize-calendar/_next/static/css/673166a079fea5cb.css","style"]
+5:T14613,
     
       
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J3LMKC" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
@@ -25,7 +25,7 @@
           <i class="icon-base ri ri-menu-fill icon-lg align-middle text-heading fw-medium"></i>
         </button>
         <!-- Mobile menu toggle: End-->
-        <a href="/landing/page" class="app-brand-link">
+        <a href="/materialize-calendar/landing/page" class="app-brand-link">
           <span class="app-brand-logo demo">
   <span class="text-primary">
     <svg width="32" height="18" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,19 +59,19 @@
         </button>
         <ul class="navbar-nav me-auto">
           <li class="nav-item">
-            <a class="nav-link fw-medium" aria-current="page" href="/landing/page#landingHero">Home</a>
+            <a class="nav-link fw-medium" aria-current="page" href="/materialize-calendar/landing/page#landingHero">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingFeatures">Features</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingFeatures">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingTeam">Team</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingTeam">Team</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingFAQ">FAQ</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingFAQ">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingContact">Contact us</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingContact">Contact us</a>
           </li>
           <li class="nav-item mega-dropdown
   ">
@@ -89,25 +89,25 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pricing/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pricing/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Pricing">Pricing</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/payment/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/payment/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Payment">Payment</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/checkout/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/checkout/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Checkout">Checkout</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/help/center/landing">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/help/center/landing">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Help Center">Help Center</span>
                       </a>
@@ -123,55 +123,55 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/login-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/login-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Login (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/login-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/login-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Login (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-multisteps" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-multisteps" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Multi-steps)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/forgot-password-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/forgot-password-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Forgot Password (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/forgot-password-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/forgot-password-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Forgot Password (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/reset-password-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/reset-password-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Reset Password (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/reset-password-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/reset-password-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Reset Password (Cover)
                       </a>
@@ -187,49 +187,49 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-error" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-error" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Error
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-under-maintenance" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-under-maintenance" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Under Maintenance
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-comingsoon" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-comingsoon" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Coming Soon
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-not-authorized" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-not-authorized" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Not Authorized
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/verify-email-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/verify-email-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Verify Email (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/verify-email-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/verify-email-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Verify Email (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/two-steps-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/two-steps-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Two Steps (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/two-steps-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/two-steps-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Two Steps (Cover)
                       </a>
@@ -238,14 +238,14 @@
                 </div>
                 <div class="col-lg-4 d-none d-lg-block">
                   <div class="bg-body nav-img-col p-2">
-                    <img src="/assets/img/front-pages/misc/nav-item-col-img-light.png" class="img-fluid scaleX-n1-rtl w-100" alt="nav item col image" data-app-light-img="front-pages/misc/nav-item-col-img-light.png" data-app-dark-img="front-pages/misc/nav-item-col-img-dark.png" />
+                    <img src="/materialize-calendar/assets/img/front-pages/misc/nav-item-col-img-light.png" class="img-fluid scaleX-n1-rtl w-100" alt="nav item col image" data-app-light-img="front-pages/misc/nav-item-col-img-light.png" data-app-dark-img="front-pages/misc/nav-item-col-img-dark.png" />
                   </div>
                 </div>
               </div>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/" target="_blank">Admin</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/" target="_blank">Admin</a>
           </li>
         </ul>
       </div>
@@ -282,7 +282,7 @@
         
         <!-- navbar button: Start -->
         <li>
-          <a href="/auth/login-cover" class="btn btn-primary px-2 px-sm-4 px-lg-2 px-xl-4" target="_blank"><span class="icon-base ri ri-user-line me-md-1"></span><span class="d-none d-md-block">Login/Register</span></a>
+          <a href="/materialize-calendar/auth/login-cover" class="btn btn-primary px-2 px-sm-4 px-lg-2 px-xl-4" target="_blank"><span class="icon-base ri ri-user-line me-md-1"></span><span class="d-none d-md-block">Login/Register</span></a>
         </li>
         <!-- navbar button: End -->
       </ul>
@@ -298,7 +298,7 @@
   <div data-bs-spy="scroll" class="scrollspy-example">
     <!-- Hero: Start -->
     <section id="landingHero" class="section-py landing-hero position-relative">
-      <img src="/assets/img/front-pages/backgrounds/hero-bg-light.png" alt="hero background" class="position-absolute top-0 start-0 w-100 h-100 z-n1" data-speed="1" data-app-light-img="front-pages/backgrounds/hero-bg-light.png" data-app-dark-img="front-pages/backgrounds/hero-bg-dark.png" />
+      <img src="/materialize-calendar/assets/img/front-pages/backgrounds/hero-bg-light.png" alt="hero background" class="position-absolute top-0 start-0 w-100 h-100 z-n1" data-speed="1" data-app-light-img="front-pages/backgrounds/hero-bg-light.png" data-app-dark-img="front-pages/backgrounds/hero-bg-dark.png" />
       <div class="container">
         <div class="hero-text-box text-center">
           <h2 class="text-primary hero-title mb-4">All in one sass application for your business</h2>
@@ -306,12 +306,12 @@
           <a href="#landingPricing" class="btn btn-lg btn-primary">Get early access</a>
         </div>
         <div class="position-relative hero-animation-img">
-          <a href="/dashboards/crm" target="_blank">
+          <a href="/materialize-calendar/dashboards/crm" target="_blank">
             <div class="hero-dashboard-img text-center">
-              <img src="/assets/img/front-pages/landing-page/hero-dashboard-light.png" alt="hero dashboard" class="animation-img" data-speed="2" data-app-light-img="front-pages/landing-page/hero-dashboard-light.png" data-app-dark-img="front-pages/landing-page/hero-dashboard-dark.png" />
+              <img src="/materialize-calendar/assets/img/front-pages/landing-page/hero-dashboard-light.png" alt="hero dashboard" class="animation-img" data-speed="2" data-app-light-img="front-pages/landing-page/hero-dashboard-light.png" data-app-dark-img="front-pages/landing-page/hero-dashboard-dark.png" />
             </div>
             <div class="position-absolute hero-elements-img">
-              <img src="/assets/img/front-pages/landing-page/hero-elements-light.png" alt="hero elements" class="animation-img" data-speed="4" data-app-light-img="front-pages/landing-page/hero-elements-light.png" data-app-dark-img="front-pages/landing-page/hero-elements-dark.png" />
+              <img src="/materialize-calendar/assets/img/front-pages/landing-page/hero-elements-light.png" alt="hero elements" class="animation-img" data-speed="4" data-app-light-img="front-pages/landing-page/hero-elements-light.png" data-app-dark-img="front-pages/landing-page/hero-elements-dark.png" />
             </div>
           </a>
         </div>
@@ -323,7 +323,7 @@
     <section id="landingFeatures" class="section-py landing-features">
       <div class="container">
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">Useful features</span>
         </h6>
         <h5 class="text-center mb-2"><span class="h4 fw-bold">Everything you need</span> to start your next project</h5>
@@ -331,42 +331,42 @@
         <div class="features-icon-wrapper row gx-0 gy-12 gx-sm-6">
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/laptop-charging.png" alt="laptop charging" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/laptop-charging.png" alt="laptop charging" />
             </div>
             <h5 class="mb-2">Quality Code</h5>
             <p class="features-icon-description">Code structure that all developers will easily understand and fall in love with.</p>
           </div>
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/transition-up.png" alt="transition up" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/transition-up.png" alt="transition up" />
             </div>
             <h5 class="mb-2">Continuous Updates</h5>
             <p class="features-icon-description">Free updates for the next 12 months, including new demos and features.</p>
           </div>
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/edit.png" alt="edit" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/edit.png" alt="edit" />
             </div>
             <h5 class="mb-2">Stater-Kit</h5>
             <p class="features-icon-description">Start your project quickly without having to remove unnecessary features.</p>
           </div>
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/3d-select-solid.png" alt="3d select solid" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/3d-select-solid.png" alt="3d select solid" />
             </div>
             <h5 class="mb-2">API Ready</h5>
             <p class="features-icon-description">Just change the endpoint and see your own data loaded within seconds.</p>
           </div>
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/lifebelt.png" alt="lifebelt" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/lifebelt.png" alt="lifebelt" />
             </div>
             <h5 class="mb-2">Excellent Support</h5>
             <p class="features-icon-description">An easy-to-follow doc with lots of references and code examples.</p>
           </div>
           <div class="col-lg-4 col-sm-6 text-center features-icon-box">
             <div class="features-icon mb-4">
-              <img src="/assets/img/front-pages/icons/google-docs.png" alt="google docs" />
+              <img src="/materialize-calendar/assets/img/front-pages/icons/google-docs.png" alt="google docs" />
             </div>
             <h5 class="mb-2">Well Documented</h5>
             <p class="features-icon-description">An easy-to-follow doc with lots of references and code examples.</p>
@@ -380,7 +380,7 @@
     <section id="landingReviews" class="section-py bg-body landing-reviews">
       <div class="container">
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">real customers reviews</span>
         </h6>
         <h5 class="text-center mb-2"><span class="h4 fw-bold">Success stories</span> from clients</h5>
@@ -393,7 +393,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -414,7 +414,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">Materio is awesome, and I particularly enjoy knowing that if I get stuck on something.</p>
                   <div class="text-warning mb-4">
@@ -435,7 +435,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">This template is superior in so many ways. The code, the design, the regular updates, the support.. It’s the whole package. Excellent Work.</p>
                   <div class="text-warning mb-4">
@@ -456,7 +456,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">All the requirements for developers have been taken into consideration, so I’m able to build any interface I want.</p>
                   <div class="text-warning mb-4">
@@ -477,7 +477,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -498,7 +498,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center h-100">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -519,7 +519,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center h-100">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">Materio is awesome, and I particularly enjoy knowing that if I get stuck on something.</p>
                   <div class="text-warning mb-4">
@@ -540,7 +540,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center h-100">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">This template is superior in so many ways. The code, the design, the regular updates, the support.. It’s the whole package. Excellent Work.</p>
                   <div class="text-warning mb-4">
@@ -561,7 +561,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center h-100">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">All the requirements for developers have been taken into consideration, so I’m able to build any interface I want.</p>
                   <div class="text-warning mb-4">
@@ -582,7 +582,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center h-100">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -603,7 +603,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-4.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -624,7 +624,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-1.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">Materio is awesome, and I particularly enjoy knowing that if I get stuck on something.</p>
                   <div class="text-warning mb-4">
@@ -645,7 +645,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-3.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">This template is superior in so many ways. The code, the design, the regular updates, the support.. It’s the whole package. Excellent Work.</p>
                   <div class="text-warning mb-4">
@@ -666,7 +666,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-2.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">All the requirements for developers have been taken into consideration, so I’m able to build any interface I want.</p>
                   <div class="text-warning mb-4">
@@ -687,7 +687,7 @@
               <div class="card h-100">
                 <div class="card-body text-body d-flex flex-column justify-content-between text-center p-lg-8">
                   <div class="mb-4">
-                    <img src="/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
+                    <img src="/materialize-calendar/assets/img/front-pages/branding/logo-5.png" alt="client logo" class="client-logo img-fluid" />
                   </div>
                   <p class="text-heading">“I've never used a theme as versatile and flexible as Vuexy. It's my go to for building dashboard sites on almost any project.”</p>
                   <div class="text-warning mb-4">
@@ -713,19 +713,19 @@
           <div class="swiper" id="swiper-clients-logos">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <img src="/assets/img/front-pages/branding/logo-1-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-1-light.png" data-app-dark-img="front-pages/branding/logo-1-dark.png" />
+                <img src="/materialize-calendar/assets/img/front-pages/branding/logo-1-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-1-light.png" data-app-dark-img="front-pages/branding/logo-1-dark.png" />
               </div>
               <div class="swiper-slide">
-                <img src="/assets/img/front-pages/branding/logo-2-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-2-light.png" data-app-dark-img="front-pages/branding/logo-2-dark.png" />
+                <img src="/materialize-calendar/assets/img/front-pages/branding/logo-2-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-2-light.png" data-app-dark-img="front-pages/branding/logo-2-dark.png" />
               </div>
               <div class="swiper-slide">
-                <img src="/assets/img/front-pages/branding/logo-3-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-3-light.png" data-app-dark-img="front-pages/branding/logo-3-dark.png" />
+                <img src="/materialize-calendar/assets/img/front-pages/branding/logo-3-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-3-light.png" data-app-dark-img="front-pages/branding/logo-3-dark.png" />
               </div>
               <div class="swiper-slide">
-                <img src="/assets/img/front-pages/branding/logo-4-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-4-light.png" data-app-dark-img="front-pages/branding/logo-4-dark.png" />
+                <img src="/materialize-calendar/assets/img/front-pages/branding/logo-4-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-4-light.png" data-app-dark-img="front-pages/branding/logo-4-dark.png" />
               </div>
               <div class="swiper-slide">
-                <img src="/assets/img/front-pages/branding/logo-5-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-5-light.png" data-app-dark-img="front-pages/branding/logo-5-dark.png" />
+                <img src="/materialize-calendar/assets/img/front-pages/branding/logo-5-light.png" alt="client logo" class="client-logo" data-app-light-img="front-pages/branding/logo-5-light.png" data-app-dark-img="front-pages/branding/logo-5-dark.png" />
               </div>
             </div>
           </div>
@@ -737,9 +737,9 @@
     <!-- Our great team: Start -->
     <section id="landingTeam" class="section-py landing-team">
       <div class="container bg-icon-right position-relative">
-        <img src="/assets/img/front-pages/icons/bg-right-icon-light.png" alt="section icon" class="position-absolute top-0 end-0" data-speed="1" data-app-light-img="front-pages/icons/bg-right-icon-light.png" data-app-dark-img="front-pages/icons/bg-right-icon-dark.png" />
+        <img src="/materialize-calendar/assets/img/front-pages/icons/bg-right-icon-light.png" alt="section icon" class="position-absolute top-0 end-0" data-speed="1" data-app-light-img="front-pages/icons/bg-right-icon-light.png" data-app-dark-img="front-pages/icons/bg-right-icon-dark.png" />
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">our great team</span>
         </h6>
         <h5 class="text-center mb-2"><span class="h4 fw-bold">Supported</span> by Real People</h5>
@@ -748,7 +748,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="card card-hover-border-primary mt-4 mt-lg-0 shadow-none">
               <div class="bg-label-primary position-relative team-image-box">
-                <img src="/assets/img/front-pages/landing-page/team-member-1.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
+                <img src="/materialize-calendar/assets/img/front-pages/landing-page/team-member-1.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
               </div>
               <div class="card-body text-center">
                 <h5 class="card-title mb-0">Sophie Gilbert</h5>
@@ -770,7 +770,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="card card-hover-border-danger mt-4 mt-lg-0 shadow-none">
               <div class="bg-label-danger position-relative team-image-box">
-                <img src="/assets/img/front-pages/landing-page/team-member-2.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
+                <img src="/materialize-calendar/assets/img/front-pages/landing-page/team-member-2.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
               </div>
               <div class="card-body text-center">
                 <h5 class="card-title mb-0">Nannie Ford</h5>
@@ -792,7 +792,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="card card-hover-border-success mt-4 mt-lg-0 shadow-none">
               <div class="bg-label-success position-relative team-image-box">
-                <img src="/assets/img/front-pages/landing-page/team-member-3.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
+                <img src="/materialize-calendar/assets/img/front-pages/landing-page/team-member-3.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
               </div>
               <div class="card-body text-center">
                 <h5 class="card-title mb-0">Chris Watkins</h5>
@@ -814,7 +814,7 @@
           <div class="col-lg-3 col-sm-6">
             <div class="card card-hover-border-info mt-4 mt-lg-0 shadow-none">
               <div class="bg-label-info position-relative team-image-box">
-                <img src="/assets/img/front-pages/landing-page/team-member-4.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
+                <img src="/materialize-calendar/assets/img/front-pages/landing-page/team-member-4.png" class="position-absolute card-img-position bottom-0 start-50 scaleX-n1-rtl" alt="human image" />
               </div>
               <div class="card-body text-center">
                 <h5 class="card-title mb-0">Paul Miles</h5>
@@ -841,9 +841,9 @@
     <!-- Pricing plans: Start -->
     <section id="landingPricing" class="section-py bg-body landing-pricing">
       <div class="container bg-icon-left position-relative">
-        <img src="/assets/img/front-pages/icons/bg-left-icon-light.png" alt="section icon" class="position-absolute top-0 start-0" data-speed="1" data-app-light-img="front-pages/icons/bg-left-icon-light.png" data-app-dark-img="front-pages/icons/bg-left-icon-dark.png" />
+        <img src="/materialize-calendar/assets/img/front-pages/icons/bg-left-icon-light.png" alt="section icon" class="position-absolute top-0 start-0" data-speed="1" data-app-light-img="front-pages/icons/bg-left-icon-light.png" data-app-dark-img="front-pages/icons/bg-left-icon-dark.png" />
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">pricing plans</span>
         </h6>
         <h5 class="text-center mb-2"><span class="h4 fw-bold">Tailored pricing plans</span> designed for you</h5>
@@ -865,43 +865,43 @@
                     <p class="small mb-0 text-body">10% off for yearly subscription</p>
                   </div>
                 </div>
-                <img src="/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
+                <img src="/materialize-calendar/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
               </div>
               <div class="card-body">
                 <ul class="list-unstyled">
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Timeline
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Basic search
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Live chat widget
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Email marketing
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Custom Forms
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Traffic analytics
                     </h5>
                   </li>
@@ -915,7 +915,7 @@
                   <span class="badge bg-label-primary rounded-pill">AVG. Time: 24h</span>
                 </div>
                 <div class="text-center mt-6 pt-2">
-                  <a href="/payment/page" class="btn btn-outline-primary w-100">Get Started</a>
+                  <a href="/materialize-calendar/payment/page" class="btn btn-outline-primary w-100">Get Started</a>
                 </div>
               </div>
             </div>
@@ -934,43 +934,43 @@
                     <p class="small mb-0 text-body">10% off for yearly subscription</p>
                   </div>
                 </div>
-                <img src="/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
+                <img src="/materialize-calendar/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
               </div>
               <div class="card-body">
                 <ul class="list-unstyled">
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Everything in basic
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Timeline with database
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Advanced search
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Marketing automation
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Advanced chatbot
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Campaign management
                     </h5>
                   </li>
@@ -984,7 +984,7 @@
                   <span class="badge bg-label-primary rounded-pill">AVG. Time: 6h</span>
                 </div>
                 <div class="text-center mt-6 pt-2">
-                  <a href="/payment/page" class="btn btn-primary w-100">Get Started</a>
+                  <a href="/materialize-calendar/payment/page" class="btn btn-primary w-100">Get Started</a>
                 </div>
               </div>
             </div>
@@ -1003,43 +1003,43 @@
                     <p class="small mb-0 text-body">10% off for yearly subscription</p>
                   </div>
                 </div>
-                <img src="/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
+                <img src="/materialize-calendar/assets/img/front-pages/icons/smiling-icon.png" alt="smiling icon" />
               </div>
               <div class="card-body">
                 <ul class="list-unstyled">
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Everything in premium
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Timeline with database
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Fuzzy search
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       A/B testing sanbox
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Custom permissions
                     </h5>
                   </li>
                   <li>
                     <h5 class="mb-3">
-                      <img src="/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
+                      <img src="/materialize-calendar/assets/img/front-pages/icons/list-arrow-icon.png" alt="list arrow icon" class="me-2 pe-1 scaleX-n1-rtl" />
                       Social media automation
                     </h5>
                   </li>
@@ -1053,7 +1053,7 @@
                   <span class="badge bg-label-primary rounded-pill">Live Support</span>
                 </div>
                 <div class="text-center mt-6 pt-2">
-                  <a href="/payment/page" class="btn btn-outline-primary w-100">Get Started</a>
+                  <a href="/materialize-calendar/payment/page" class="btn btn-outline-primary w-100">Get Started</a>
                 </div>
               </div>
             </div>
@@ -1096,9 +1096,9 @@
     <!-- FAQ: Start -->
     <section id="landingFAQ" class="section-py bg-body landing-faq">
       <div class="container bg-icon-right">
-        <img src="/assets/img/front-pages/icons/bg-right-icon-light.png" alt="section icon" class="position-absolute top-0 end-0" data-speed="1" data-app-light-img="front-pages/icons/bg-right-icon-light.png" data-app-dark-img="front-pages/icons/bg-right-icon-dark.png" />
+        <img src="/materialize-calendar/assets/img/front-pages/icons/bg-right-icon-light.png" alt="section icon" class="position-absolute top-0 end-0" data-speed="1" data-app-light-img="front-pages/icons/bg-right-icon-light.png" data-app-dark-img="front-pages/icons/bg-right-icon-dark.png" />
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">faq</span>
         </h6>
         <h5 class="text-center mb-2">Frequently asked<span class="h4 fw-bold"> questions</span></h5>
@@ -1107,7 +1107,7 @@
           <div class="col-lg-5">
             <div class="text-center">
               <img
-                src="/assets/img/front-pages/landing-page/sitting-girl-with-laptop.png
+                src="/materialize-calendar/assets/img/front-pages/landing-page/sitting-girl-with-laptop.png
           "
                 alt="sitting girl with laptop"
                 class="faq-image scaleX-n1-rtl" />
@@ -1168,16 +1168,16 @@
 
     <!-- CTA: Start -->
     <section id="landingCTA" class="section-py landing-cta p-lg-0 pb-0 position-relative">
-      <img src="/assets/img/front-pages/backgrounds/cta-bg.png" class="position-absolute bottom-0 end-0 scaleX-n1-rtl h-100 w-100 z-n1" alt="cta image" />
+      <img src="/materialize-calendar/assets/img/front-pages/backgrounds/cta-bg.png" class="position-absolute bottom-0 end-0 scaleX-n1-rtl h-100 w-100 z-n1" alt="cta image" />
       <div class="container">
         <div class="row align-items-center gy-5 gy-lg-0">
           <div class="col-lg-6 text-center text-lg-start">
             <h2 class="display-5 text-primary fw-bold mb-0">Ready to Get Started?</h2>
             <p class="fw-medium mb-6 mb-md-8">Start your project with a 14-day free trial</p>
-            <a href="/payment/page" class="btn btn-primary">Get Started<i class="icon-base ri ri-arrow-right-line icon-16px ms-2 scaleX-n1-rtl"></i></a>
+            <a href="/materialize-calendar/payment/page" class="btn btn-primary">Get Started<i class="icon-base ri ri-arrow-right-line icon-16px ms-2 scaleX-n1-rtl"></i></a>
           </div>
           <div class="col-lg-6 pt-lg-12">
-            <img src="/assets/img/front-pages/landing-page/cta-dashboard.png" alt="cta dashboard" class="img-fluid" />
+            <img src="/materialize-calendar/assets/img/front-pages/landing-page/cta-dashboard.png" alt="cta dashboard" class="img-fluid" />
           </div>
         </div>
       </div>
@@ -1187,9 +1187,9 @@
     <!-- Contact Us: Start -->
     <section id="landingContact" class="section-py bg-body landing-contact">
       <div class="container bg-icon-left position-relative">
-        <img src="/assets/img/front-pages/icons/bg-left-icon-light.png" alt="section icon" class="position-absolute top-0 start-0" data-speed="1" data-app-light-img="front-pages/icons/bg-left-icon-light.png" data-app-dark-img="front-pages/icons/bg-left-icon-dark.png" />
+        <img src="/materialize-calendar/assets/img/front-pages/icons/bg-left-icon-light.png" alt="section icon" class="position-absolute top-0 start-0" data-speed="1" data-app-light-img="front-pages/icons/bg-left-icon-light.png" data-app-dark-img="front-pages/icons/bg-left-icon-dark.png" />
         <h6 class="text-center d-flex justify-content-center align-items-center mb-6">
-          <img src="/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
+          <img src="/materialize-calendar/assets/img/front-pages/icons/section-title-icon.png" alt="section title icon" class="me-3" height="19" />
           <span class="text-uppercase">contact us</span>
         </h6>
         <h5 class="text-center mb-2"><span class="h4 fw-bold">Lets work</span> together</h5>
@@ -1200,7 +1200,7 @@
               <div class="bg-primary rounded-4 text-white card-body p-lg-8">
                 <p class="fw-medium mb-1_5 tagline">Let’s contact with us</p>
                 <h4 class="text-white mb-5 title">Share your ideas or requirement with our experts.</h4>
-                <img src="/assets/img/front-pages/landing-page/let’s-contact.png" alt="let’s contact" class="w-100 mb-4 pb-1" />
+                <img src="/materialize-calendar/assets/img/front-pages/landing-page/let’s-contact.png" alt="let’s contact" class="w-100 mb-4 pb-1" />
                 <p class="mb-0 description">Looking for more customisation, more features, and more anything? Don’t worry, We’ve provide you with an entire team of experienced professionals.</p>
               </div>
             </div>
@@ -1250,11 +1250,11 @@
 <!-- Footer: Start -->
 <footer class="landing-footer">
   <div class="footer-top position-relative overflow-hidden">
-    <img src="/assets/img/front-pages/backgrounds/footer-bg.png" alt="footer bg" class="footer-bg banner-bg-img" />
+    <img src="/materialize-calendar/assets/img/front-pages/backgrounds/footer-bg.png" alt="footer bg" class="footer-bg banner-bg-img" />
     <div class="container">
       <div class="row gx-0 gy-6 g-lg-10">
         <div class="col-lg-5">
-          <a href="/landing/page" class="app-brand-link mb-6">
+          <a href="/materialize-calendar/landing/page" class="app-brand-link mb-6">
             <span class="app-brand-logo demo">
   <span class="text-primary">
     <svg width="32" height="18" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1314,26 +1314,26 @@
           <h6 class="footer-title mb-4 mb-lg-6">Pages</h6>
           <ul class="list-unstyled mb-0">
             <li class="mb-4">
-              <a href="/pricing/page" class="footer-link">Pricing</a>
+              <a href="/materialize-calendar/pricing/page" class="footer-link">Pricing</a>
             </li>
             <li class="mb-4">
-              <a href="/payment/page" class="footer-link">Payment<span class="badge rounded-pill bg-primary ms-2">New</span></a>
+              <a href="/materialize-calendar/payment/page" class="footer-link">Payment<span class="badge rounded-pill bg-primary ms-2">New</span></a>
             </li>
             <li class="mb-4">
-              <a href="/checkout/page" class="footer-link">Checkout</a>
+              <a href="/materialize-calendar/checkout/page" class="footer-link">Checkout</a>
             </li>
             <li class="mb-4">
-              <a href="/help/center/landing" class="footer-link">Help Center</a>
+              <a href="/materialize-calendar/help/center/landing" class="footer-link">Help Center</a>
             </li>
             <li>
-              <a href="/auth/login-cover" target="_blank" class="footer-link">Login/Register</a>
+              <a href="/materialize-calendar/auth/login-cover" target="_blank" class="footer-link">Login/Register</a>
             </li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-4">
           <h6 class="footer-title mb-4 mb-lg-6">Download our app</h6>
-          <a href="javascript:void(0);" class="d-block footer-link mb-4"><img src="/assets/img/front-pages/landing-page/apple-icon.png" alt="apple icon" /></a>
-          <a href="javascript:void(0);" class="d-block footer-link"><img src="/assets/img/front-pages/landing-page/google-play-icon.png" alt="google play icon" /></a>
+          <a href="javascript:void(0);" class="d-block footer-link mb-4"><img src="/materialize-calendar/assets/img/front-pages/landing-page/apple-icon.png" alt="apple icon" /></a>
+          <a href="javascript:void(0);" class="d-block footer-link"><img src="/materialize-calendar/assets/img/front-pages/landing-page/google-play-icon.png" alt="google play icon" /></a>
         </div>
       </div>
     </div>
@@ -1401,7 +1401,7 @@
     <!-- Page JS -->
     
     
-  0:{"P":null,"b":"nQYRuUDBYUWi8DobFTXPO","p":"","c":["","front-pages","landing-page",""],"i":false,"f":[[["",{"children":["front-pages",{"children":["landing-page",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/iconify-icons.css"}],["$","link","/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/flag-icons.css"}],["$","link","/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/assets/vendor/css/core.css"}],["$","link","/assets/css/demo.css",{"rel":"stylesheet","href":"/assets/css/demo.css"}],["$","link","/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["front-pages",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["landing-page",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/assets/vendor/fonts/iconify-icons.css","/assets/vendor/libs/node-waves/node-waves.css","/assets/vendor/libs/pickr/pickr-themes.css","/assets/vendor/css/core.css","/assets/css/demo.css","/assets/vendor/css/pages/front-page.css","/assets/vendor/libs/nouislider/nouislider.css","/assets/vendor/libs/swiper/swiper.css","/assets/vendor/css/pages/front-page-landing.css"],"scripts":["/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/js/helpers.js","/assets/vendor/js/template-customizer.js","/assets/js/front-config.js","/assets/vendor/js/dropdown-hover.js","/assets/vendor/js/mega-dropdown.js","/assets/vendor/libs/popper/popper.js","/assets/vendor/js/bootstrap.js","/assets/vendor/libs/node-waves/node-waves.js","/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/libs/pickr/pickr.js","/assets/vendor/libs/nouislider/nouislider.js","/assets/vendor/libs/swiper/swiper.js","/assets/js/front-main.js","/assets/js/front-page-landing.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n            document.write(new Date().getFullYear());\r\n          "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-wide ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"front-pages"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
+  0:{"P":null,"b":"5pqqXYjxTu2Q38y89ERUd","p":"/materialize-calendar","c":["","front-pages","landing-page",""],"i":false,"f":[[["",{"children":["front-pages",{"children":["landing-page",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/materialize-calendar/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/materialize-calendar/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/iconify-icons.css"}],["$","link","/materialize-calendar/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/flag-icons.css"}],["$","link","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/materialize-calendar/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/css/core.css"}],["$","link","/materialize-calendar/assets/css/demo.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/css/demo.css"}],["$","link","/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["front-pages",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["landing-page",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/materialize-calendar/assets/vendor/fonts/iconify-icons.css","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css","/materialize-calendar/assets/vendor/css/core.css","/materialize-calendar/assets/css/demo.css","/materialize-calendar/assets/vendor/css/pages/front-page.css","/materialize-calendar/assets/vendor/libs/nouislider/nouislider.css","/materialize-calendar/assets/vendor/libs/swiper/swiper.css","/materialize-calendar/assets/vendor/css/pages/front-page-landing.css"],"scripts":["/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/js/helpers.js","/materialize-calendar/assets/vendor/js/template-customizer.js","/materialize-calendar/assets/js/front-config.js","/materialize-calendar/assets/vendor/js/dropdown-hover.js","/materialize-calendar/assets/vendor/js/mega-dropdown.js","/materialize-calendar/assets/vendor/libs/popper/popper.js","/materialize-calendar/assets/vendor/js/bootstrap.js","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.js","/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/libs/pickr/pickr.js","/materialize-calendar/assets/vendor/libs/nouislider/nouislider.js","/materialize-calendar/assets/vendor/libs/swiper/swiper.js","/materialize-calendar/assets/js/front-main.js","/materialize-calendar/assets/js/front-page-landing.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n            document.write(new Date().getFullYear());\r\n          "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-wide ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"front-pages"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
 9:I[4431,[],"OutletBoundary"]
 b:I[5278,[],"AsyncMetadataOutlet"]
 d:I[4431,[],"ViewportBoundary"]

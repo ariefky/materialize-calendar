@@ -13,13 +13,13 @@ export const metadata = {
 
 const CSS_LINKS = [
   "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",
-  "/assets/vendor/fonts/iconify-icons.css",
-  "/assets/vendor/fonts/flag-icons.css",
-  "/assets/vendor/libs/node-waves/node-waves.css",
-  "/assets/vendor/libs/pickr/pickr-themes.css",
-  "/assets/vendor/css/core.css",
-  "/assets/css/demo.css",
-  "/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
+  "/materialize-calendar/assets/vendor/fonts/iconify-icons.css",
+  "/materialize-calendar/assets/vendor/fonts/flag-icons.css",
+  "/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css",
+  "/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css",
+  "/materialize-calendar/assets/vendor/css/core.css",
+  "/materialize-calendar/assets/css/demo.css",
+  "/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",
 ];
 
 export default function RootLayout({ children }) {

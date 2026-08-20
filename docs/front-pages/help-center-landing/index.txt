@@ -3,8 +3,8 @@
 3:I[8924,[],""]
 4:I[8975,["7329","static/chunks/app/front-pages/help-center-landing/page-ce3562003a0c6826.js"],"default"]
 8:I[7150,[],""]
-:HL["/_next/static/css/673166a079fea5cb.css","style"]
-5:T151c1,
+:HL["/materialize-calendar/_next/static/css/673166a079fea5cb.css","style"]
+5:T158f9,
     
       
       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5J3LMKC" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
@@ -25,7 +25,7 @@
           <i class="icon-base ri ri-menu-fill icon-lg align-middle text-heading fw-medium"></i>
         </button>
         <!-- Mobile menu toggle: End-->
-        <a href="/landing/page" class="app-brand-link">
+        <a href="/materialize-calendar/landing/page" class="app-brand-link">
           <span class="app-brand-logo demo">
   <span class="text-primary">
     <svg width="32" height="18" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -59,19 +59,19 @@
         </button>
         <ul class="navbar-nav me-auto">
           <li class="nav-item">
-            <a class="nav-link fw-medium" aria-current="page" href="/landing/page#landingHero">Home</a>
+            <a class="nav-link fw-medium" aria-current="page" href="/materialize-calendar/landing/page#landingHero">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingFeatures">Features</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingFeatures">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingTeam">Team</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingTeam">Team</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingFAQ">FAQ</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingFAQ">FAQ</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/landing/page#landingContact">Contact us</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/landing/page#landingContact">Contact us</a>
           </li>
           <li class="nav-item mega-dropdown
    active">
@@ -89,25 +89,25 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pricing/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pricing/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Pricing">Pricing</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/payment/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/payment/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Payment">Payment</span>
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/checkout/page">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/checkout/page">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Checkout">Checkout</span>
                       </a>
                     </li>
                     <li class="nav-item active">
-                      <a class="nav-link mega-dropdown-link" href="/help/center/landing">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/help/center/landing">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         <span data-i18n="Help Center">Help Center</span>
                       </a>
@@ -123,55 +123,55 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/login-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/login-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Login (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/login-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/login-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Login (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/register-multisteps" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/register-multisteps" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Register (Multi-steps)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/forgot-password-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/forgot-password-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Forgot Password (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/forgot-password-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/forgot-password-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Forgot Password (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/reset-password-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/reset-password-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Reset Password (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/reset-password-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/reset-password-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Reset Password (Cover)
                       </a>
@@ -187,49 +187,49 @@
                   </div>
                   <ul class="nav flex-column">
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-error" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-error" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Error
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-under-maintenance" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-under-maintenance" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Under Maintenance
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-comingsoon" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-comingsoon" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Coming Soon
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/pages/misc-not-authorized" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/pages/misc-not-authorized" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Not Authorized
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/verify-email-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/verify-email-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Verify Email (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/verify-email-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/verify-email-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Verify Email (Cover)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/two-steps-basic" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/two-steps-basic" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Two Steps (Basic)
                       </a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link mega-dropdown-link" href="/auth/two-steps-cover" target="_blank">
+                      <a class="nav-link mega-dropdown-link" href="/materialize-calendar/auth/two-steps-cover" target="_blank">
                         <i class="icon-base ri ri-circle-line icon-12px me-2"></i>
                         Two Steps (Cover)
                       </a>
@@ -238,14 +238,14 @@
                 </div>
                 <div class="col-lg-4 d-none d-lg-block">
                   <div class="bg-body nav-img-col p-2">
-                    <img src="/assets/img/front-pages/misc/nav-item-col-img-light.png" class="img-fluid scaleX-n1-rtl w-100" alt="nav item col image" data-app-light-img="front-pages/misc/nav-item-col-img-light.png" data-app-dark-img="front-pages/misc/nav-item-col-img-dark.png" />
+                    <img src="/materialize-calendar/assets/img/front-pages/misc/nav-item-col-img-light.png" class="img-fluid scaleX-n1-rtl w-100" alt="nav item col image" data-app-light-img="front-pages/misc/nav-item-col-img-light.png" data-app-dark-img="front-pages/misc/nav-item-col-img-dark.png" />
                   </div>
                 </div>
               </div>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link fw-medium" href="/" target="_blank">Admin</a>
+            <a class="nav-link fw-medium" href="/materialize-calendar/" target="_blank">Admin</a>
           </li>
         </ul>
       </div>
@@ -282,7 +282,7 @@
         
         <!-- navbar button: Start -->
         <li>
-          <a href="/auth/login-cover" class="btn btn-primary px-2 px-sm-4 px-lg-2 px-xl-4" target="_blank"><span class="icon-base ri ri-user-line me-md-1"></span><span class="d-none d-md-block">Login/Register</span></a>
+          <a href="/materialize-calendar/auth/login-cover" class="btn btn-primary px-2 px-sm-4 px-lg-2 px-xl-4" target="_blank"><span class="icon-base ri ri-user-line me-md-1"></span><span class="d-none d-md-block">Login/Register</span></a>
         </li>
         <!-- navbar button: End -->
       </ul>
@@ -297,7 +297,7 @@
 
   <!-- Help Center Header: Start -->
   <section class="section-py first-section-pt help-center-header position-relative overflow-hidden">
-    <img class="banner-bg-img z-n1" src="/assets/img/pages/header-light.png" alt="Help center header" data-app-light-img="pages/header-light.png" data-app-dark-img="pages/header-dark.png" />
+    <img class="banner-bg-img z-n1" src="/materialize-calendar/assets/img/pages/header-light.png" alt="Help center header" data-app-light-img="pages/header-light.png" data-app-dark-img="pages/header-dark.png" />
     <h4 class="text-center text-primary">Hello, how can we help?</h4>
     <div class="input-wrapper my-4 input-group input-group-merge position-relative mx-auto">
       <span class="input-group-text" id="basic-addon1"><i class="icon-base ri ri-search-line"></i></span>
@@ -345,7 +345,7 @@
                   </svg>
                   <h5 class="my-3">Getting Started</h5>
                   <p class="mb-3">Whether you're new or you're a power user, this article will…</p>
-                  <a class="btn btn-outline-primary" href="/help/center/article">Read More</a>
+                  <a class="btn btn-outline-primary" href="/materialize-calendar/help/center/article">Read More</a>
                 </div>
               </div>
             </div>
@@ -372,7 +372,7 @@
                   </svg>
                   <h5 class="my-3">First Steps</h5>
                   <p class="mb-3">Are you a new customer wondering how to get started?</p>
-                  <a class="btn btn-outline-primary" href="/help/center/article">Read More</a>
+                  <a class="btn btn-outline-primary" href="/materialize-calendar/help/center/article">Read More</a>
                 </div>
               </div>
             </div>
@@ -399,7 +399,7 @@
                   </svg>
                   <h5 class="my-3">Add External Content</h5>
                   <p class="mb-3">This article will show you how to expand the functionality of...</p>
-                  <a class="btn btn-outline-primary" href="/help/center/article">Read More</a>
+                  <a class="btn btn-outline-primary" href="/materialize-calendar/help/center/article">Read More</a>
                 </div>
               </div>
             </div>
@@ -426,44 +426,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> What are Favourites? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do I purchase an item? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do i add or change my details? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do refunds work? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Can I Get A Refund? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> I'm trying to find a specific item </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 10 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -482,44 +482,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> What is Item Support? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How to contact an author </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Where Is My Purchase Code? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Extend or renew Item Support </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Item Support FAQ </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Why has my item been removed? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 14 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -538,44 +538,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Can I use the same license for the same item on multiple sites? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do licenses work for any plugins </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> For logo what license do I need? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> I’m making a test site - it’s not for a client. Which license do I need? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> which license do I need? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> I want to make multiple end products </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 8 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -594,44 +594,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Template Kits </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Elementor Template Kits: PHP Zip File Missing </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Template Kits - Imported template is blank or broken </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Troubleshooting Import Problems </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How to use the WordPress Plugin </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How to use the Template Kit Importer Plugin </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 5 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -650,44 +650,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Signing in with a social account </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Locked Out of Account </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> I'm not receiving the verification email </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Forgotten Username Or Password </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> New password not accepted </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> What is Sign In Verification? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 16 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -706,44 +706,44 @@
               </div>
               <ul class="list-unstyled my-6">
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do I change my password? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do I change my username? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do I close my account? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How do I change my email address? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li class="mb-2">
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> How can I regain access to my account? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
+                  <a href="/materialize-calendar/help/center/article" class="text-heading d-flex justify-content-between align-items-center">
                     <span class="text-truncate me-1"> Are RSS feeds available on Market? </span>
                     <i class="icon-base ri ri-arrow-right-s-line scaleX-n1-rtl text-body-secondary"></i>
                   </a>
                 </li>
               </ul>
               <p class="mb-0 fw-medium mt-6">
-                <a href="/help/center/article" class="d-flex align-items-center">
+                <a href="/materialize-calendar/help/center/article" class="d-flex align-items-center">
                   <span class="me-2">See all 12 articles</span>
                   <i class="icon-base ri ri-arrow-right-line icon-sm scaleX-n1-rtl"></i>
                 </a>
@@ -781,7 +781,7 @@
                   </svg>
                   <h5 class="my-3">Blogging</h5>
                   <p class="mb-3">Expert tips and tools to improve your website or online store using our blog.</p>
-                  <a href="/help/center/article" class="btn btn-outline-primary">Read More</a>
+                  <a href="/materialize-calendar/help/center/article" class="btn btn-outline-primary">Read More</a>
                 </div>
               </div>
             </div>
@@ -812,7 +812,7 @@
                   </svg>
                   <h5 class="my-3">Inspiration Center</h5>
                   <p class="mb-3">Inspiration from experts to help you start and grow your big ideas.</p>
-                  <a href="/help/center/article" class="btn btn-outline-primary">Read More</a>
+                  <a href="/materialize-calendar/help/center/article" class="btn btn-outline-primary">Read More</a>
                 </div>
               </div>
             </div>
@@ -841,7 +841,7 @@
                   </svg>
                   <h5 class="my-3">Community</h5>
                   <p class="mb-3">A group of people living in the same place or having a particular.</p>
-                  <a href="/help/center/article" class="btn btn-outline-primary">Read More</a>
+                  <a href="/materialize-calendar/help/center/article" class="btn btn-outline-primary">Read More</a>
                 </div>
               </div>
             </div>
@@ -876,11 +876,11 @@
 <!-- Footer: Start -->
 <footer class="landing-footer">
   <div class="footer-top position-relative overflow-hidden">
-    <img src="/assets/img/front-pages/backgrounds/footer-bg.png" alt="footer bg" class="footer-bg banner-bg-img" />
+    <img src="/materialize-calendar/assets/img/front-pages/backgrounds/footer-bg.png" alt="footer bg" class="footer-bg banner-bg-img" />
     <div class="container">
       <div class="row gx-0 gy-6 g-lg-10">
         <div class="col-lg-5">
-          <a href="/landing/page" class="app-brand-link mb-6">
+          <a href="/materialize-calendar/landing/page" class="app-brand-link mb-6">
             <span class="app-brand-logo demo">
   <span class="text-primary">
     <svg width="32" height="18" viewBox="0 0 38 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -940,26 +940,26 @@
           <h6 class="footer-title mb-4 mb-lg-6">Pages</h6>
           <ul class="list-unstyled mb-0">
             <li class="mb-4">
-              <a href="/pricing/page" class="footer-link">Pricing</a>
+              <a href="/materialize-calendar/pricing/page" class="footer-link">Pricing</a>
             </li>
             <li class="mb-4">
-              <a href="/payment/page" class="footer-link">Payment<span class="badge rounded-pill bg-primary ms-2">New</span></a>
+              <a href="/materialize-calendar/payment/page" class="footer-link">Payment<span class="badge rounded-pill bg-primary ms-2">New</span></a>
             </li>
             <li class="mb-4">
-              <a href="/checkout/page" class="footer-link">Checkout</a>
+              <a href="/materialize-calendar/checkout/page" class="footer-link">Checkout</a>
             </li>
             <li class="mb-4">
-              <a href="/help/center/landing" class="footer-link">Help Center</a>
+              <a href="/materialize-calendar/help/center/landing" class="footer-link">Help Center</a>
             </li>
             <li>
-              <a href="/auth/login-cover" target="_blank" class="footer-link">Login/Register</a>
+              <a href="/materialize-calendar/auth/login-cover" target="_blank" class="footer-link">Login/Register</a>
             </li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-4">
           <h6 class="footer-title mb-4 mb-lg-6">Download our app</h6>
-          <a href="javascript:void(0);" class="d-block footer-link mb-4"><img src="/assets/img/front-pages/landing-page/apple-icon.png" alt="apple icon" /></a>
-          <a href="javascript:void(0);" class="d-block footer-link"><img src="/assets/img/front-pages/landing-page/google-play-icon.png" alt="google play icon" /></a>
+          <a href="javascript:void(0);" class="d-block footer-link mb-4"><img src="/materialize-calendar/assets/img/front-pages/landing-page/apple-icon.png" alt="apple icon" /></a>
+          <a href="javascript:void(0);" class="d-block footer-link"><img src="/materialize-calendar/assets/img/front-pages/landing-page/google-play-icon.png" alt="google play icon" /></a>
         </div>
       </div>
     </div>
@@ -1026,7 +1026,7 @@
     <!-- Page JS -->
     
     
-  0:{"P":null,"b":"nQYRuUDBYUWi8DobFTXPO","p":"","c":["","front-pages","help-center-landing",""],"i":false,"f":[[["",{"children":["front-pages",{"children":["help-center-landing",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/iconify-icons.css"}],["$","link","/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/assets/vendor/fonts/flag-icons.css"}],["$","link","/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/assets/vendor/css/core.css"}],["$","link","/assets/css/demo.css",{"rel":"stylesheet","href":"/assets/css/demo.css"}],["$","link","/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["front-pages",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["help-center-landing",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/assets/vendor/fonts/iconify-icons.css","/assets/vendor/libs/node-waves/node-waves.css","/assets/vendor/libs/pickr/pickr-themes.css","/assets/vendor/css/core.css","/assets/css/demo.css","/assets/vendor/css/pages/front-page.css","/assets/vendor/css/pages/front-page-help-center.css"],"scripts":["/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/js/helpers.js","/assets/vendor/js/template-customizer.js","/assets/js/front-config.js","/assets/vendor/js/dropdown-hover.js","/assets/vendor/js/mega-dropdown.js","/assets/vendor/libs/popper/popper.js","/assets/vendor/js/bootstrap.js","/assets/vendor/libs/node-waves/node-waves.js","/assets/vendor/libs/@algolia/autocomplete-js.js","/assets/vendor/libs/pickr/pickr.js","/assets/js/front-main.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n            document.write(new Date().getFullYear());\r\n          "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-wide ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"front-pages"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
+  0:{"P":null,"b":"5pqqXYjxTu2Q38y89ERUd","p":"/materialize-calendar","c":["","front-pages","help-center-landing",""],"i":false,"f":[[["",{"children":["front-pages",{"children":["help-center-landing",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/materialize-calendar/_next/static/css/673166a079fea5cb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[[["$","link","https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"}],["$","link","/materialize-calendar/assets/vendor/fonts/iconify-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/iconify-icons.css"}],["$","link","/materialize-calendar/assets/vendor/fonts/flag-icons.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/fonts/flag-icons.css"}],["$","link","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css"}],["$","link","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css"}],["$","link","/materialize-calendar/assets/vendor/css/core.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/css/core.css"}],["$","link","/materialize-calendar/assets/css/demo.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/css/demo.css"}],["$","link","/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css",{"rel":"stylesheet","href":"/materialize-calendar/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"}]],["$","link",null,{"rel":"icon","type":"image/x-icon","href":"/assets/img/favicon/favicon.ico"}]]}],["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],{"children":["front-pages",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["help-center-landing",["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L4",null,{"html":"$5","css":["/materialize-calendar/assets/vendor/fonts/iconify-icons.css","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.css","/materialize-calendar/assets/vendor/libs/pickr/pickr-themes.css","/materialize-calendar/assets/vendor/css/core.css","/materialize-calendar/assets/css/demo.css","/materialize-calendar/assets/vendor/css/pages/front-page.css","/materialize-calendar/assets/vendor/css/pages/front-page-help-center.css"],"scripts":["/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/js/helpers.js","/materialize-calendar/assets/vendor/js/template-customizer.js","/materialize-calendar/assets/js/front-config.js","/materialize-calendar/assets/vendor/js/dropdown-hover.js","/materialize-calendar/assets/vendor/js/mega-dropdown.js","/materialize-calendar/assets/vendor/libs/popper/popper.js","/materialize-calendar/assets/vendor/js/bootstrap.js","/materialize-calendar/assets/vendor/libs/node-waves/node-waves.js","/materialize-calendar/assets/vendor/libs/@algolia/autocomplete-js.js","/materialize-calendar/assets/vendor/libs/pickr/pickr.js","/materialize-calendar/assets/js/front-main.js"],"inlineScripts":["\r\n        (function (w, d, s, l, i) {\r\n          w[l] = w[l] || [];\r\n          w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });\r\n          var f = d.getElementsByTagName(s)[0],\r\n            j = d.createElement(s),\r\n            dl = l != 'dataLayer' ? '&l=' + l : '';\r\n          j.async = true;\r\n          j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;\r\n          f.parentNode.insertBefore(j, f);\r\n        })(window, document, 'script', 'dataLayer', 'GTM-5J3LMKC');\r\n      ","\r\n            document.write(new Date().getFullYear());\r\n          "],"htmlAttrs":{"lang":"en","class":" layout-navbar-fixed layout-wide ","dir":"ltr","data-skin":"default","data-bs-theme":"light","data-assets-path":"/assets/","data-template":"front-pages"},"bodyAttrs":{}}],null,"$L6"]}],{},null,false]},null,false]},null,false]},null,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"s":false,"S":true}
 9:I[4431,[],"OutletBoundary"]
 b:I[5278,[],"AsyncMetadataOutlet"]
 d:I[4431,[],"ViewportBoundary"]
