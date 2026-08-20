@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
         {CSS_LINKS.map((href) => (
           <link key={href} rel="stylesheet" href={href} />
         ))}
-        <link rel="icon" type="image/x-icon" href="/assets/img/favicon/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="/materialize-calendar/assets/img/favicon/favicon.ico" />
       </head>
       <body>{children}</body>
     </html>
